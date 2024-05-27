@@ -6,7 +6,7 @@
             <div class="a" >A</div>
              <div class="b">B</div>
       </div>
-      <div class="g">
+      < div class="g">
          <div class="c">C</div>
          <div class="d">D</div>
      </div>    
